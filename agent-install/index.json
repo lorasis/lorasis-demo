@@ -1,0 +1,24 @@
+{
+  "title": "Lorasis Agent Demo",
+  "description": "Install the Lorasis security agent and view it in the dashboard.",
+  "details": {
+    "steps": [
+      {
+        "title": "Agent Installation",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
