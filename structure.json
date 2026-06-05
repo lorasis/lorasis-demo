@@ -1,5 +1,5 @@
 {
-  "scenarios": [
-    "agent-install"
+  "items": [
+    { "path": "agent-install" }
   ]
 }
